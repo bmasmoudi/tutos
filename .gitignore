@@ -1,0 +1,22 @@
+# Eclipse
+.settings
+.project
+.classpath
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# maven
+target
+*.class
+
+#general swap/backup files
+*.so
+*.log
+*.out
+*~
+*.swp
+*.DS_Store
+*.lock
