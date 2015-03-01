@@ -3,7 +3,6 @@ package com.bmasmoudi.tutos.model.builder;
 import com.bmasmoudi.tutos.model.Personne;
 
 
-//Class Personne
 public class PersonneBuilder extends Personne {
 
 	public PersonneBuilder(final String nom, final String preNom, final Integer age) {
